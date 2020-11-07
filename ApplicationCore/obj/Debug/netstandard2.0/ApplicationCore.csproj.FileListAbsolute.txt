@@ -1,0 +1,9 @@
+C:\Users\trkclk\Desktop\aspNetCore-catapult\Prototype\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+C:\Users\trkclk\Desktop\aspNetCore-catapult\Prototype\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\trkclk\Desktop\aspNetCore-catapult\Prototype\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\trkclk\Desktop\aspNetCore-catapult\Prototype\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\trkclk\Desktop\aspNetCore-catapult\Prototype\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\trkclk\Desktop\aspNetCore-catapult\Prototype\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+C:\Users\trkclk\Desktop\aspNetCore-catapult\Prototype\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\trkclk\Desktop\aspNetCore-catapult\Prototype\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\trkclk\Desktop\aspNetCore-catapult\Prototype\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb
