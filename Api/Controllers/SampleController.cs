@@ -16,8 +16,7 @@ namespace Api.Controllers
         {
             _sampleRepository = sampleRepository;
             _unitOfWork = unitOfWork;
-        }
-        [HttpGet]
+        } 
         public ApiResult Get(int id)
         {
             try
@@ -44,8 +43,7 @@ namespace Api.Controllers
                 return ApiResultExtension.ExceptionEncountered(exc);
             }
         }
-
-        [HttpGet]
+         
         public ApiResult Get(ESampleEnums.Processes process)
         {
             try
